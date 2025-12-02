@@ -1,4 +1,3 @@
-import { NavLink } from "react-router-dom";
 
 export default function Contact() {
   return (
@@ -149,7 +148,7 @@ export default function Contact() {
                 <textarea
                   id="message"
                   name="message"
-                  rows="4"
+                  // rows="4"
                   className="w-full bg-gray-50 border border-gray-200 rounded-lg py-3 px-4 text-gray-800 focus:outline-none focus:ring-2 focus:ring-green-500 transition-all"
                   placeholder="How can we help?"
                 ></textarea>
