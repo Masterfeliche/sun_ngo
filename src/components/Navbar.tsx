@@ -107,7 +107,7 @@ function NavBar() {
                                 Initiatives
                             </NavLink>
                             <NavLink 
-                                to="/Programs" 
+                                to="/Partnerships" 
                                 onClick={toggleMenu} 
                                 className={({ isActive }) => `p-3 rounded-lg font-medium ${isActive ? "bg-blue-900 text-green-400" : "text-gray-200 hover:bg-blue-900 hover:text-white"}`}
                             >
