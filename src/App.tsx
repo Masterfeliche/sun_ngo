@@ -1,7 +1,7 @@
 import NavBar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
-
+import Partnership from "./pages/Partnerships";
 import Contact from "./pages/Contact";
 import FooterBar from "./components/Footer";
 import { Route, Routes } from "react-router-dom";
@@ -25,6 +25,7 @@ function App() {
               <Route path="/Donate" element={<Donate />} />
               <Route path="/Contact" element={<Contact />} />
               <Route path="/Volunteer" element={<Volunteer />} />
+              <Route path="/Partnerships" element={<Partnership />} />
           </Routes>
    
 

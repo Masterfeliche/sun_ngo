@@ -46,6 +46,12 @@ function NavBar() {
                             Initiatives
                         </NavLink>
                         <NavLink 
+                            to="/Partnerships" 
+                            className={({ isActive }) => `text-sm font-medium transition-colors ${isActive ? "text-green-400" : "text-gray-200 hover:text-white"}`}
+                        >
+                            Our Partners
+                        </NavLink>
+                        <NavLink 
                             to="/contact" 
                             className={({ isActive }) => `text-sm font-medium transition-colors ${isActive ? "text-green-400" : "text-gray-200 hover:text-white"}`}
                         >
@@ -98,8 +104,16 @@ function NavBar() {
                                 onClick={toggleMenu} 
                                 className={({ isActive }) => `p-3 rounded-lg font-medium ${isActive ? "bg-blue-900 text-green-400" : "text-gray-200 hover:bg-blue-900 hover:text-white"}`}
                             >
-                                Our Initiatives
+                                Initiatives
                             </NavLink>
+                            <NavLink 
+                                to="/Programs" 
+                                onClick={toggleMenu} 
+                                className={({ isActive }) => `p-3 rounded-lg font-medium ${isActive ? "bg-blue-900 text-green-400" : "text-gray-200 hover:bg-blue-900 hover:text-white"}`}
+                            >
+                                Our Partners
+                            </NavLink>
+                            
                             <NavLink 
                                 to="/contact" 
                                 onClick={toggleMenu} 
