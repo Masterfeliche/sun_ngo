@@ -1,11 +1,13 @@
 import NavBar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Services from "./pages/Services";
-import Products from "./pages/Products";
+
 import Contact from "./pages/Contact";
 import FooterBar from "./components/Footer";
 import { Route, Routes } from "react-router-dom";
+import Programs from "./pages/Programs";
+import Donate from "./pages/Donate";
+import Volunteer from "./pages/Volunteer";
 
 function App() {
   return (
@@ -19,9 +21,10 @@ function App() {
           <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/About" element={<About />} />
-              <Route path="/Services" element={<Services />} />
-              <Route path="/Products" element={<Products />} />
+              <Route path="/Programs" element={<Programs />} />
+              <Route path="/Donate" element={<Donate />} />
               <Route path="/Contact" element={<Contact />} />
+              <Route path="/Volunteer" element={<Volunteer />} />
           </Routes>
    
 
