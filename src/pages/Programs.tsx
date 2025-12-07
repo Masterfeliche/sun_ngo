@@ -6,7 +6,7 @@ export default function Programs() {
             {/* --- SECTION 1: HERO --- */}
             <div className="w-full min-h-[450px] bg-blue-950 relative flex items-center justify-center p-10">
                 {/* Background Image Overlay */}
-                <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center opacity-30"></div>
+                <div className="absolute inset-0 bg-[url('LRLC4992.JPG')] bg-cover bg-center opacity-30"></div>
                 
                 <div className="text-center max-w-4xl relative z-10">
                     <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">
@@ -36,7 +36,7 @@ export default function Programs() {
                     {/* Program 1: Climate Adaptation */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1621451537084-482c73073a0f?q=80&w=800&auto=format&fit=crop" alt="Climate Adaptation" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="WhatsApp Image 2025-12-03 at 17.38.33.jpeg" alt="Climate Adaptation" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Climate Adaptation</h3>
@@ -52,7 +52,7 @@ export default function Programs() {
                     {/* Program 2: Green Skills */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1595838788863-70d3c4f31835?q=80&w=800&auto=format&fit=crop" alt="Green Skills" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="IMG_3341.JPG" alt="Green Skills" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Green Skills for Youth</h3>
@@ -68,7 +68,7 @@ export default function Programs() {
                     {/* Program 3: Health Promotion */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1579154204601-01588f351e67?q=80&w=800&auto=format&fit=crop" alt="Health Promotion" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="IMG_4174.JPG" alt="Health Promotion" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Health Promotion</h3>
@@ -84,7 +84,7 @@ export default function Programs() {
                     {/* Program 4: Climate Rights Advocacy */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?q=80&w=800&auto=format&fit=crop" alt="Advocacy" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="IMG_4191.JPG" alt="Advocacy" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Rights Advocacy</h3>
@@ -100,7 +100,7 @@ export default function Programs() {
                     {/* Program 5: Emergency Response */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1599930113854-d6d7fd521f10?q=80&w=800&auto=format&fit=crop" alt="Emergency Response" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="WhatsApp Image 2025-12-03 at 17.40.38.jpeg" alt="Emergency Response" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Emergency Response</h3>
@@ -116,7 +116,7 @@ export default function Programs() {
                     {/* Program 6: Research & Education */}
                     <div className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col hover:shadow-2xl transition-shadow duration-300">
                         <div className="h-64 overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800&auto=format&fit=crop" alt="Education" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
+                            <img src="3T7A8337.jpg" alt="Education" className="h-full w-full object-cover hover:scale-105 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-2xl font-bold text-blue-950">Education & Research</h3>

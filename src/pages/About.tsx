@@ -6,7 +6,7 @@ export default function About() {
             {/* --- SECTION 1: HERO --- */}
             <div className="w-full min-h-[500px] bg-blue-950 relative">
                  {/* Background Image with Overlay */}
-                 <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center opacity-30"></div>
+                 <div className="absolute inset-0 bg-[url('3T7A8527.jpg')] bg-cover bg-center opacity-30"></div>
                 
                 <div className="relative z-10 md:grid grid-cols-2 gap-10 p-10 py-20 md:items-center max-w-7xl mx-auto">
                     <div className="md:text-left">
@@ -33,7 +33,7 @@ export default function About() {
                     {/* Hero Image / Visual */}
                     <div className="hidden md:block relative">
                          <div className="absolute -inset-4 bg-green-600/20 rounded-2xl blur-lg"></div>
-                        <img src="https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?q=80&w=800&auto=format&fit=crop" alt="Volunteers working" className="relative rounded-2xl shadow-2xl border-4 border-white/10" />
+                        <img src="3T7A8502.jpg" alt="Volunteers working" className="relative rounded-2xl shadow-2xl border-4 border-white/10" />
                     </div>
                 </div>
             </div>
@@ -91,8 +91,8 @@ export default function About() {
                         </div>
                     </div>
                     <div className="grid grid-cols-2 gap-4">
-                        <img src="https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?q=80&w=600&auto=format&fit=crop" alt="Mission 1" className="rounded-lg shadow-lg w-full h-64 object-cover mt-8" />
-                        <img src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=600&auto=format&fit=crop" alt="Mission 2" className="rounded-lg shadow-lg w-full h-64 object-cover" />
+                        <img src="WhatsApp Image 2025-12-03 at 17.38.33.jpeg" alt="Mission 1" className="rounded-lg shadow-lg w-full h-64 object-cover mt-8" />
+                        <img src="IMG_3344.JPG" alt="Mission 2" className="rounded-lg shadow-lg w-full h-64 object-cover" />
                     </div>
                 </div>
             </div>
@@ -110,28 +110,28 @@ export default function About() {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12 max-w-7xl mx-auto">
                     {/* Item 1 */}
                     <div className="group relative overflow-hidden rounded-xl shadow-md">
-                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://images.unsplash.com/photo-1509099836639-18ba1795216d?q=80&w=500&auto=format&fit=crop" alt="Climate Adaptation" />
+                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="IMG_3470.JPG" alt="Climate Adaptation" />
                         <div className="absolute inset-0 bg-gradient-to-t from-blue-950/90 to-transparent flex items-end p-4">
                             <p className="font-semibold text-white">Climate Adaptation</p>
                         </div>
                     </div>
                     {/* Item 2 */}
                     <div className="group relative overflow-hidden rounded-xl shadow-md">
-                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://images.unsplash.com/photo-1576091160550-2187d80a1a44?q=80&w=500&auto=format&fit=crop" alt="Green Skills" />
+                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="IMG_3416.JPG" alt="Green Skills" />
                         <div className="absolute inset-0 bg-gradient-to-t from-blue-950/90 to-transparent flex items-end p-4">
                             <p className="font-semibold text-white">Green Skills for Youth</p>
                         </div>
                     </div>
                     {/* Item 3 */}
                     <div className="group relative overflow-hidden rounded-xl shadow-md">
-                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?q=80&w=500&auto=format&fit=crop" alt="Health Promotion" />
+                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="IMG_4174.JPG" alt="Health Promotion" />
                         <div className="absolute inset-0 bg-gradient-to-t from-blue-950/90 to-transparent flex items-end p-4">
                             <p className="font-semibold text-white">Health Promotion</p>
                         </div>
                     </div>
                     {/* Item 4 */}
                     <div className="group relative overflow-hidden rounded-xl shadow-md">
-                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?q=80&w=500&auto=format&fit=crop" alt="Climate Rights" />
+                        <img className="h-64 w-full object-cover group-hover:scale-110 transition-transform duration-500" src="WhatsApp Image 2025-12-03 at 17.38.25.jpeg" alt="Climate Rights" />
                         <div className="absolute inset-0 bg-gradient-to-t from-blue-950/90 to-transparent flex items-end p-4">
                             <p className="font-semibold text-white">Climate Advocacy</p>
                         </div>

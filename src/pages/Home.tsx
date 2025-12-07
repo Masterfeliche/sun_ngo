@@ -6,7 +6,7 @@ export default function Home() {
             {/* --- SECTION 1: HERO --- */}
             <div className="w-full bg-blue-950 relative">
                 {/* Background Image Overlay */}
-                <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center opacity-40"></div>
+                <div className="absolute inset-0 bg-[url('IMG_7557.jpg')] bg-cover bg-center opacity-40"></div>
                 
                 <div className="relative z-10 grid md:grid-cols-2 gap-10 p-10 py-32 md:min-h-[650px] md:items-center max-w-7xl mx-auto">
                     <div className="text-center md:text-left">
@@ -110,7 +110,7 @@ export default function Home() {
                     <div className="bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col overflow-hidden group">
                         <div className="h-56 overflow-hidden relative">
                              <div className="absolute inset-0 bg-blue-950/20 group-hover:bg-transparent transition-colors"></div>
-                             <img src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=800&auto=format&fit=crop" alt="Climate Adaptation" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                             <img src="WhatsApp Image 2025-12-03 at 17.38.28.jpeg" alt="Climate Adaptation" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-blue-950 text-xl font-bold">Climate Adaptation</h3>
@@ -126,7 +126,7 @@ export default function Home() {
                     <div className="bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col overflow-hidden group">
                         <div className="h-56 overflow-hidden relative">
                              <div className="absolute inset-0 bg-blue-950/20 group-hover:bg-transparent transition-colors"></div>
-                             <img src="https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?q=80&w=800&auto=format&fit=crop" alt="Green Skills" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                             <img src="WhatsApp Image 2025-06-20 at 20.28.31_95505e85.jpg" alt="Green Skills" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-blue-950 text-xl font-bold">Green Skills & Livelihood</h3>
@@ -142,7 +142,7 @@ export default function Home() {
                     <div className="bg-white rounded-2xl shadow-lg border border-gray-100 flex flex-col overflow-hidden group">
                         <div className="h-56 overflow-hidden relative">
                              <div className="absolute inset-0 bg-blue-950/20 group-hover:bg-transparent transition-colors"></div>
-                             <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=800&auto=format&fit=crop" alt="Health Promotion" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                             <img src="IMG_7557.jpg" alt="Health Promotion" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                         </div>
                         <div className="p-8 flex flex-col flex-grow">
                             <h3 className="text-blue-950 text-xl font-bold">Health Promotion</h3>

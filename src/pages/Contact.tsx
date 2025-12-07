@@ -5,7 +5,7 @@ export default function Contact() {
       {/* --- SECTION 1: HERO --- */}
       <div className="w-full min-h-[400px] bg-blue-950 relative flex items-center justify-center p-10">
         {/* Background Image Overlay */}
-        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center opacity-30"></div>
+        <div className="absolute inset-0 bg-[url('3T7A8427.jpg')] bg-cover bg-center opacity-30"></div>
         
         <div className="text-center max-w-3xl relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white">
