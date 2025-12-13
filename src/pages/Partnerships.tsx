@@ -6,7 +6,7 @@ export default function Partnership() {
             {/* --- SECTION 1: HERO --- */}
             <div className="w-full min-h-[450px] bg-blue-950 relative flex items-center justify-center p-10">
                 {/* Background Image Overlay */}
-                <div className="absolute inset-0 bg-[url('IMG_2578.JPG')] bg-cover bg-center opacity-30"></div>
+                <div className="absolute inset-0 bg-[url('/IMG_2578.JPG')] bg-cover bg-center opacity-30"></div>
                 
                 <div className="text-center max-w-4xl relative z-10">
                     <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">

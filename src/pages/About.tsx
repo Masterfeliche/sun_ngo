@@ -6,7 +6,7 @@ export default function About() {
             {/* --- SECTION 1: HERO --- */}
             <div className="w-full min-h-[500px] bg-blue-950 relative">
                  {/* Background Image with Overlay */}
-                 <div className="absolute inset-0 bg-[url('3T7A8527.jpg')] bg-cover bg-center opacity-30"></div>
+                 <div className="absolute inset-0 bg-[url('/3T7A8527.jpg')] bg-cover bg-center opacity-30"></div>
                 
                 <div className="relative z-10 md:grid grid-cols-2 gap-10 p-10 py-20 md:items-center max-w-7xl mx-auto">
                     <div className="md:text-left">
