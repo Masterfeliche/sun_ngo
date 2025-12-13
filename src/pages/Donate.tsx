@@ -54,14 +54,14 @@ export default function Donate() {
                                 <div className="bg-gray-50 p-4 rounded-lg border border-gray-200">
                                     <p className="text-xs font-bold text-gray-500 uppercase tracking-wide">Number 1</p>
                                     <p className="text-2xl font-bold text-blue-950 font-mono mt-1">+255 713 617 751</p>
-                                    <p className="text-sm text-green-600 mt-1">Name: THE SUN ORGANIZATION</p>
+                                    <p className="text-sm text-green-600 mt-1">Name: THE SUN </p>
                                 </div>
 
                                 {/* Number 2 */}
                                 <div className="bg-gray-50 p-4 rounded-lg border border-gray-200">
                                     <p className="text-xs font-bold text-gray-500 uppercase tracking-wide">Number 2</p>
                                     <p className="text-2xl font-bold text-blue-950 font-mono mt-1">+255 718 928 182</p>
-                                    <p className="text-sm text-green-600 mt-1">Name: THE SUN ORGANIZATION</p>
+                                    <p className="text-sm text-green-600 mt-1">Name: THE SUN </p>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ export default function Donate() {
                                     <div className="flex justify-between items-start">
                                         <div>
                                             <p className="text-lg font-bold text-blue-950">CRDB Bank</p>
-                                            <p className="text-sm text-gray-600">Account Name: THE SUN NGO</p>
+                                            <p className="text-sm text-gray-600">Account Name: THE SUN </p>
                                         </div>
                                         <span className="bg-blue-100 text-blue-800 text-xs font-bold px-2 py-1 rounded">TZS</span>
                                     </div>
@@ -104,7 +104,7 @@ export default function Donate() {
                                     <div className="flex justify-between items-start">
                                         <div>
                                             <p className="text-lg font-bold text-blue-950">NMB Bank</p>
-                                            <p className="text-sm text-gray-600">Account Name: THE SUN NGO</p>
+                                            <p className="text-sm text-gray-600">Account Name: THE SUN </p>
                                         </div>
                                         <span className="bg-green-100 text-green-800 text-xs font-bold px-2 py-1 rounded">USD</span>
                                     </div>

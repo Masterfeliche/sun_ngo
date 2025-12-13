@@ -28,10 +28,10 @@ export default function Home() {
                                 Our Initiatives
                             </NavLink>
                             <NavLink 
-                                to="/donate" 
+                                to="/Volunteer" 
                                 className="bg-white text-blue-950 h-12 px-8 rounded-full font-semibold flex items-center justify-center hover:bg-gray-100 transition-colors shadow-lg"
                             >
-                                Support The Mission
+                                Join Our Mission
                             </NavLink>
                         </div>
                     </div>
