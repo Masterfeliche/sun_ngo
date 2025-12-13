@@ -154,7 +154,7 @@ export default function About() {
                         <div className="flex flex-col items-center group">
                             <div className="relative">
                                 <div className="absolute inset-0 bg-green-500 rounded-full blur opacity-20 group-hover:opacity-40 transition-opacity"></div>
-                                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop" alt="Director" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
+                                <img src="/WhatsApp Image 2025-12-13 at 13.59.28.jpeg" alt="Director" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
                             </div>
                             <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">John Doe</h3>
                             <p className="text-green-600 font-medium text-sm">Executive Director</p>
