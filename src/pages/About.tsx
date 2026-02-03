@@ -149,23 +149,24 @@ export default function About() {
                         Our team combines local expertise with global best practices to ensure every project is efficient and culturally relevant.
                     </p>
                     
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-16">
+
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 mt-16">
                         {/* Team Member 1 */}
                         <div className="flex flex-col items-center group">
                             <div className="relative">
                                 <div className="absolute inset-0 bg-green-500 rounded-full blur opacity-20 group-hover:opacity-40 transition-opacity"></div>
-                                <img src="/WhatsApp Image 2025-12-13 at 13.59.28.jpeg" alt="Director" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
+                                <img src="/WhatsApp Image 2026-01-29 at 19.14.59 (1).jpeg" alt="Director" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
                             </div>
-                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">John Doe</h3>
-                            <p className="text-green-600 font-medium text-sm">Executive Director</p>
+                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">Geofrey Lubengo</h3>
+                            <p className="text-green-600 font-medium text-sm">Managing Director</p>
                             <div className="flex justify-center gap-4 pt-3">
                                 {/* Simple text links or icons for social */}
-                                <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
+                                {/* <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
                                      in
                                 </span>
                                 <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
                                      x
-                                </span>
+                                </span> */}
                             </div>
                         </div>
                         
@@ -173,14 +174,14 @@ export default function About() {
                         <div className="flex flex-col items-center group">
                             <div className="relative">
                                 <div className="absolute inset-0 bg-green-500 rounded-full blur opacity-20 group-hover:opacity-40 transition-opacity"></div>
-                                <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400&auto=format&fit=crop" alt="Program Manager" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
+                                <img src="manumbu-frank.jpeg" alt="Program Manager" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
                             </div>
-                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">Sarah Smith</h3>
+                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">Frank Manumbu</h3>
                             <p className="text-green-600 font-medium text-sm">Program Manager</p>
                              <div className="flex justify-center gap-4 pt-3">
-                                <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
+                                {/* <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
                                      in
-                                </span>
+                                </span> */}
                             </div>
                         </div>
                         
@@ -188,31 +189,19 @@ export default function About() {
                         <div className="flex flex-col items-center group">
                             <div className="relative">
                                 <div className="absolute inset-0 bg-green-500 rounded-full blur opacity-20 group-hover:opacity-40 transition-opacity"></div>
-                                <img src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&auto=format&fit=crop" alt="Community Liaison" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
+                                <img src="/WhatsApp Image 2026-01-29 at 19.14.59.jpeg" alt="Community Liaison" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
                             </div>
-                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">Amina Juma</h3>
-                            <p className="text-green-600 font-medium text-sm">Community Liaison</p>
+                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">Fiona Gumphi</h3>
+                            <p className="text-green-600 font-medium text-sm">finance Manager</p>
                              <div className="flex justify-center gap-4 pt-3">
-                                <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
+                                {/* <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
                                      in
-                                </span>
+                                </span> */}
                             </div>
                         </div>
                         
                         {/* Team Member 4 */}
-                        <div className="flex flex-col items-center group">
-                            <div className="relative">
-                                <div className="absolute inset-0 bg-green-500 rounded-full blur opacity-20 group-hover:opacity-40 transition-opacity"></div>
-                                <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&auto=format&fit=crop" alt="Finance Officer" className="relative rounded-full h-48 w-48 object-cover border-4 border-white shadow-lg group-hover:scale-105 transition-transform duration-300" />
-                            </div>
-                            <h3 className="text-center text-blue-950 mt-6 text-xl font-bold">David Mushi</h3>
-                            <p className="text-green-600 font-medium text-sm">Finance Officer</p>
-                             <div className="flex justify-center gap-4 pt-3">
-                                <span className="w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center text-blue-950 hover:bg-green-600 hover:text-white transition-colors cursor-pointer">
-                                     in
-                                </span>
-                            </div>
-                        </div>
+                        
 
                     </div>
                 </div>
